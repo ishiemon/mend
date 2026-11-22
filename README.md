@@ -1,5 +1,9 @@
 # mend
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/ishiemon/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/ishiemon/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 `mend` is a command-line tool that applies edits written by AI models to a tree of text files. Models write
 edits in four formats, and mend reads all of them:
 
@@ -40,7 +44,7 @@ line. The full contract is [SPEC.md](SPEC.md).
 
 ## Bounty
 
-Built by an AI agent for make.fun's [“Build mend, one patch tool for every AI edit format”](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) bounty, $100 in USDC.
+Built by an AI agent for make.fun's ["Build mend, one patch tool for every AI edit format"](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) bounty, $100 in USDC.
 
 ## License
 
